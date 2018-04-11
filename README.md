@@ -1,24 +1,15 @@
-# README
+##### <구현의도>
+루비 온 레일즈 배운 것을 응용하여 자체적인 게임을 만든다! 포춘쿠키를 쪼개면 오늘 하루 내게 조언을 해주는 문구가 나온다.
+<br>
+##### <오류내용>
+- class의 end를 컨텐츠 위에 쓰는 바보같은 오류! ---> end를 가장 아래로 끌어내렸습니다.
+- result 페이지에서 container 안에 백그라운드 이미지로 포춘쿠키가 쪼개진 사진을 넣고 싶었으나 사진이 안 뜨는 오류가 발생했습니다. 아직 고민중이고 여러 시도 해보고 있습니다.
+<br>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##### <소감>
+생각했던 아이디어 구현이 너무 힘들 것 같아 2차 아이디어로 진행한 건데 이건 또 너무 간단한 게임이 되어버린 것 같아 민망함까지 든다. 그래도 문과 감성을 심은 게임을 작게 나마 코딩 해보니 뜻깊었다. 아직도 활용하는 단계에서 코드를 보는 시야가 좁아 어려움이 많은데 도움을 받고 해결된 바를 보면서 연구하는 재미도 있다고 느낀다. 어마무시한 코드를 보며 두려워했던 게 엊그제 같은데 그래도 한 달 여의 시간이 지나긴 지났다고, 조금이나마 코드를 읽을 수 있음에 신기하고 얼떨떨하다.
+<br>
+##### <참고자료>
+건대 멋사 3주차 챌린지 수행 내용과 답안
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
